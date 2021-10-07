@@ -9,7 +9,7 @@ import org.junit.Before;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
-public class Feature1 {
+public class Steps {
 
     private Calculadora calculadora = new Calculadora();
 
