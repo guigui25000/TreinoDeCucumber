@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="184a7396-8c8e-4190-924c-878672d01586" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/example/Feature1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/example/RunTestCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraWebFlux/src/main/java/com/example/calculadorawebflux/Calculadora/CalculadoraControler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraWebFlux/src/main/java/com/example/calculadorawebflux/Calculadora/CalculadoraService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraWebFlux/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConsumirCEP/src/main/java/com/example/consumircep/Dominio/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConsumirCEP/src/main/java/com/example/consumircep/Service/ConsumindoAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConsumirCEP/src/main/java/com/example/consumircep/Subscriber/SubscriberConsumirCEP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HarryPotter/src/main/java/com/example/harrypotter/api/ConsumirAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HarryPotter/src/main/java/com/example/harrypotter/personagem/Casa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HarryPotter/src/main/java/com/example/harrypotter/personagem/Personagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HarryPotter/src/main/java/com/example/harrypotter/personagem/PersonagemControler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HarryPotter/src/main/java/com/example/harrypotter/personagem/PersonagemRepositori.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HarryPotter/src/main/java/com/example/harrypotter/personagem/PersonagemRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HarryPotter/src/main/java/com/example/harrypotter/personagem/PersonagemResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HarryPotter/src/main/java/com/example/harrypotter/personagem/PersonagemSerivce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login-Api/src/main/java/com/example/loginapi/Authentication/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login-Api/src/main/java/com/example/loginapi/Authentication/TokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login-Api/src/main/java/com/example/loginapi/Filter/Autenticar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login-Api/src/main/java/com/example/loginapi/Login/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login-Api/src/main/java/com/example/loginapi/Login/LoginDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login-Api/src/main/java/com/example/loginapi/Login/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login-Api/src/main/java/com/example/loginapi/Usuario/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login-Api/src/main/java/com/example/loginapi/Usuario/UsuarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login-Api/src/main/java/com/example/loginapi/Usuario/UsuarioDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login-Api/src/main/java/com/example/loginapi/Usuario/UsuarioRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login-Api/src/main/java/com/example/loginapi/Usuario/UsuarioRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login-Api/src/main/java/com/example/loginapi/configs/SecurityConfigs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Filter/Autenticar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Login/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Login/LoginControler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Login/LoginDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Login/LoginReposytori.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Login/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Login/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Perfil/Perfil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Perfil/PerfilController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Perfil/PerfilDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Perfil/PerfilRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Perfil/PerfilRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Token/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Token/TokenControler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Token/TokenResonse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/Token/TokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_API/src/main/java/com/example/login_api/configs/SecurityConfigs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoFlux/src/main/java/com/example/projetoflux/ContaPF/ContaPF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoFlux/src/main/java/com/example/projetoflux/ContaPF/ContaPFControler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoFlux/src/main/java/com/example/projetoflux/ContaPF/ContaPFDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoFlux/src/main/java/com/example/projetoflux/ContaPF/ContaPFRepositori.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoFlux/src/main/java/com/example/projetoflux/ContaPF/ContaPFService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoReativo/src/main/java/org/example/Service/Fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoReativo/src/main/java/org/example/Subscrabe/FatorialSubscrabe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoReativo/src/main/java/org/example/Subscrabe/MeuSubscriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoReativo/src/main/java/org/example/procesors/MeuProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_Letscode/src/main/java/letscode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula_Letscode/src/main/java/letscode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_Letscode/src/main/java/letscode/controller/ProfessorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula_Letscode/src/main/java/letscode/controller/ProfessorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_Letscode/src/main/java/letscode/entity/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula_Letscode/src/main/java/letscode/entity/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_Letscode/src/main/java/letscode/repository/ProfessorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula_Letscode/src/main/java/letscode/repository/ProfessorRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_Letscode/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula_Letscode/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/ReservaServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/ReservaServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/dao/ReservaDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/dao/ReservaDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/dao/ReservaDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/dao/ReservaDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/dominio/CustomMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/dominio/CustomMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/dominio/Reserva.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/dominio/Reserva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/excecoes/ReservaJaExisteException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/excecoes/ReservaJaExisteException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/service/ReservaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/service/ReservaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/service/ReservaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReservaLestcode/src/main/java/br/com/letscode/service/ReservaServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Veterinario/src/main/java/br/com/letscode/ClientServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Veterinario/src/main/java/br/com/letscode/ClientServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Veterinario/src/main/java/br/com/letscode/DAO/ClientDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Veterinario/src/main/java/br/com/letscode/DAO/ClientDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Veterinario/src/main/java/br/com/letscode/DAO/ClientDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Veterinario/src/main/java/br/com/letscode/DAO/ClientDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Veterinario/src/main/java/br/com/letscode/dominio/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Veterinario/src/main/java/br/com/letscode/dominio/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Veterinario/src/main/java/br/com/letscode/dominio/CustomMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Veterinario/src/main/java/br/com/letscode/dominio/CustomMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Veterinario/src/main/java/br/com/letscode/service/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Veterinario/src/main/java/br/com/letscode/service/ClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Veterinario/src/main/java/br/com/letscode/service/ClientServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Veterinario/src/main/java/br/com/letscode/service/ClientServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Veterinario/src/test/java/ClientServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Veterinario/src/test/java/ClientServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/src/main/java/br/com/letscod/java/helloworld/HelloWorldRestontroller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/src/main/java/br/com/letscod/java/helloworld/PersonsRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../omdb-client/src/main/java/br/com/letscode/java/omdbclient/cliente/MovieMinimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../omdb-client/src/main/java/br/com/letscode/java/omdbclient/cliente/MovieMinimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../omdb-client/src/main/java/br/com/letscode/java/omdbclient/cliente/MovieMinimalRestRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../omdb-client/src/main/java/br/com/letscode/java/omdbclient/cliente/MovieMinimalRestRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../omdb-client/src/main/java/br/com/letscode/java/omdbclient/cliente/ResultSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../omdb-client/src/main/java/br/com/letscode/java/omdbclient/cliente/ResultSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../omdb-client/src/test/java/br/com/letscode/java/omdbclient/cliente/MovieMinimalRestRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../omdb-client/src/test/java/br/com/letscode/java/omdbclient/cliente/MovieMinimalRestRepositoryTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zAQPj88fWH4uU1FXJYHpvYEOMu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in CalcCucumber">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Multiplicar dois numeros" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Feature1.feature" />
+      <option name="GLUE" value="example" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CalcCucumber" />
+      <option name="NAME_FILTER" value="^Multiplicar dois numeros$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Multiplicar dois numeros$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Multiplicar dois numeros" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in CalcCucumber (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalcCucumber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in CalcCucumber (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalcCucumber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in CalcCucumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalcCucumber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTestCalculadora" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalcCucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.RunTestCalculadora" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in CalcCucumber" />
+        <item itemvalue="Cucumber Java.Scenario: Multiplicar dois numeros" />
+        <item itemvalue="JUnit.RunTestCalculadora" />
+        <item itemvalue="JUnit.All in CalcCucumber (3)" />
+        <item itemvalue="JUnit.All in CalcCucumber (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="184a7396-8c8e-4190-924c-878672d01586" name="Default Changelist" comment="" />
+      <created>1633588391692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633588391692</updated>
+      <workItem from="1633588393392" duration="2488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
